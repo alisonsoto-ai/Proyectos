@@ -1,6 +1,6 @@
 # Proyectos de Desarrollo de Software
 
-Repositorio con mis proyectos técnicos, desarrollos web/móviles y prácticas de programación como estudiante de 7.º año de **Técnica en Informática Profesional y Personal**.
+Repositorio con mis proyectos técnicos y prácticas de programación como estudiante de 7.º año de **Técnica en Informática Profesional y Personal**.
 
 ---
 
