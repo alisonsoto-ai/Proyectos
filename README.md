@@ -19,13 +19,6 @@ Sistema web y aplicación móvil para la gestión de asistencia de preceptores y
 
 ---
 
-## Tecnologías y herramientas
-* **Lenguajes:** PHP (POO), Python, C, Java (básico), Visual Basic (básico)
-* **Bases de datos:** MySQL / SQL, SQLyog
-* **Web y móvil:** HTML, CSS, JavaScript, Android Studio (básico)
-
----
-
 ## Contacto
 * **GitHub:** [github.com/alisonsoto-ai](https://github.com/alisonsoto-ai)
 * **Correo:** alisonmelanysotoo@gmail.com
